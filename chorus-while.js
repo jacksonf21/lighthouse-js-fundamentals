@@ -1,7 +1,7 @@
-const chorus = "Let's dance!";
+const chorus = "Let's worm!";
 let repeat = 0;
-while (repeat < 10) {
-  if (repeat === 5) {
+while (repeat < 5) {
+  if (repeat === 2) {
     console.log("*change key*");
   }
   console.log(chorus);
